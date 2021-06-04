@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[**HOME**](https://www.birkey.co/)   &nbsp;       [**GITHUB**](https://github.com/oneness)    &nbsp;     [**BLOG**](https://www.birkey.co/archive.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**HOME**](https://www.birkey.co/)   &nbsp;       [**GITHUB**](https://github.com/oneness)    &nbsp;     [**BLOG**](https://www.birkey.co/archive.html)
 
 I enjoy building information systems that just work, which can only
 be achieved by keeping IT as simple as IT can be. If you are into
