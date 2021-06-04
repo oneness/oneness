@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I enjoy building information systems that just work, which can only
 be achieved by keeping IT as simple as IT can be. If you are into
-Clojure, F#, Ada or other programming languages that jolts your
+Clojure, Haskell, F#, Forth, Ada or other programming languages that jolts your
 brain to think, shock me via [Twitter](https://twitter.com/KasimTuman).
 
 **Note**: I am **NOT** currently available for hire and do **NOT** respond to
