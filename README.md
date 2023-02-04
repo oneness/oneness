@@ -17,7 +17,7 @@ I occasionally blog about programming [**here.**](https://www.birkey.co/archive.
 
 I enjoy building information systems that just work, which can only
 be achieved by keeping IT as simple as IT can be. If you are into
-Clojure, Erlang/Elixir, Haskell, F#, OCaml, Ada, Prolog, Forth and APL or other programming languages that jolts your
+Clojure, Erlang/Elixir, Haskell, F#, OCaml, Ada, Prolog, Forth and APL or any other programming languages that jolts your
 brain to think, shock me via [Twitter](https://twitter.com/KasimTuman).
 
 **Note**: I am **NOT** currently available for hire and do **NOT** respond to
