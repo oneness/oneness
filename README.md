@@ -30,15 +30,11 @@ third party recruiters.
 	-   Building, Mentoring and Leading Engineering teams at Startups to
 		design, develop and deliver great products.
 
--   **2018/11 - Present:** Director of Engineering [TapClicks Inc](https://tapclicks.com)
-	-   Led development on the Google Sheets product, enabling
-		customers to see all of their cross-network marketing data in
-		spreadsheets
-	-   Implemented high availability as well as improved monitoring and
-		scalability for the Report product
-	-   Implemented automated PDF exports of scheduled reports
-	-   Tech Stack: Clojure, ClojureScript, Elixir/Phoenix, Ruby on Rails,
-		PostgreSQL and all things AWS.
+-   **2018/11 - Present:** Sr. Staff Software Engineer [TapClicks Inc (via AdStage Inc acquisition)](https://tapclicks.com)
+  	- Led the design and implementation of Google Sheets Add-on product in ClojureScript including tooling, architecture and engineering best practices.
+     	- Worked with stakeholders across various engineering teams as an individual contributor to help fix and establish best way to move forward in addressing major customer facing issues.
+	- Responsible for building and advocating idempotent language tooling to improve developer productivity.
+	- Mentored engineering team members to write high quality code with readability and ease of change in mind.
 
 -   **2017/02 - 2018/09:** Omnyway Inc
 	-   Senior Full Stack Clojure Engineer as an early member of core
