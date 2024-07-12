@@ -21,7 +21,7 @@ Clojure, Erlang/Elixir, Haskell, F#, OCaml, Ada, Prolog, Forth and APL or any ot
 brain to think, shock me via [Twitter](https://twitter.com/KasimTuman).
 
 **Note**: I am **NOT** currently available for hire and do **NOT** respond to
-third party recruiters. However, if your company values fast feedback cycle, developer productivity via great tooling and functional approach to problem solving, I'd be interested in spending sometime together to solve interesting problems. 
+third party recruiters. However, if your company values fast feedback cycle, developer productivity via great tooling and functional approach to problem solving, I'd be interested in spending sometime together to solve tough problems. 
 
 
 # Work Experience
