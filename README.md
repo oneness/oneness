@@ -30,9 +30,9 @@ third party recruiters. However, if your company values fast feedback cycle, dev
 	-   Building, Mentoring and Leading Engineering teams at Startups to
 		design, develop and deliver great products.
 
--   **2018/11 - Present:** Sr. Staff Software Engineer [TapClicks Inc (via AdStage Inc acquisition)](https://tapclicks.com)
+-   **2018/11 - 2024/08:** Sr. Staff Software Engineer [TapClicks Inc (via AdStage Inc acquisition)](https://tapclicks.com)
   	- Led the design and implementation of Google Sheets Add-on product in ClojureScript including tooling, architecture and engineering best practices.
-	- Worked with stakeholders across various engineering teams as an individual contributor to help fix and establish best way to move forward in addressing major customer facing issues.
+	- Worked with stakeholders across various engineering teams as an **Individual Contributor** to help fix and establish best way to move forward in addressing major customer facing issues.
 	- Responsible for building and advocating idempotent language tooling to improve developer productivity.
 	- Mentored engineering team members to write high quality code with readability and ease of change in mind.
 
