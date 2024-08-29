@@ -26,7 +26,7 @@ third party recruiters. However, if your company values fast feedback cycle, dev
 
 # Work Experience
 
--   **2016/02 - Present:** Owner of [Birkey Consulting](https://www.birkey.co)
+-   **2016/02 - Present:** Owner of [Birkey LLC](https://www.birkey.co)
 	-   Building, Mentoring and Leading Engineering teams at Startups to
 		design, develop and deliver great products.
 
