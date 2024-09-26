@@ -17,7 +17,7 @@ I occasionally blog about programming [**here.**](https://www.birkey.co/archive.
 
 I enjoy building information systems that just work, which can only
 be achieved by keeping IT as simple as IT can be. If you are into
-Clojure, Erlang/Elixir, Haskell, F#, OCaml, Ada, Prolog, Forth and APL or any other programming languages that jolts your
+Clojure, Common Lisp, Guile, Erlang/Elixir, Haskell, F#, OCaml, Ada, Prolog, Forth and APL or any other programming languages that jolts your
 brain to think, shock me via [Twitter](https://twitter.com/KasimTuman).
 
 **Note**: I am **NOT** currently available for hire and do **NOT** respond to
@@ -34,7 +34,7 @@ third party recruiters. However, if your company values fast feedback cycle, dev
   	- Led the design and implementation Dashboard Reporting and Business Intelligence Web Application including tooling, architecture and engineering best practices.
 	- Worked with stakeholders across various engineering teams as an **Individual Contributor(IC)** to help fix and establish best way to move forward in addressing major customer facing issues.
 	- Mentored engineering team members to write high quality code with readability and ease of change in mind.
-	- Tech Stack: Elixir, Clojure, ClojureScript, Phoenix LiveView, PostgreSQL and all things AWS.
+	- Tech Stack: Elixir, Clojure, ClojureScript, Phoenix LiveView, Datomic, PostgreSQL and all things AWS.
 
 -   **2017/02 - 2018/09:** Omnyway Inc
 	-   Senior Full Stack Clojure Engineer as an early member of core
