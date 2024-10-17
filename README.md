@@ -34,7 +34,7 @@ third party recruiters. However, if your company values fast feedback cycle, dev
   	- Led the design and implementation Dashboard Reporting and Business Intelligence Web Application including tooling, architecture and engineering best practices.
 	- Worked with stakeholders across various engineering teams as an **Individual Contributor(IC)** to help fix and establish best way to move forward in addressing major customer facing issues.
 	- Mentored engineering team members to write high quality code with readability and ease of change in mind.
-	- Tech Stack: Elixir, Clojure, ClojureScript, Phoenix LiveView, Datomic, PostgreSQL and all things AWS.
+	- Tech Stack: Elixir, Clojure/Java, ClojureScript, Phoenix LiveView, Datomic, PostgreSQL and all things AWS.
 
 -   **2017/02 - 2018/09:** Omnyway Inc
 	-   Senior Full Stack Clojure Engineer as an early member of core
