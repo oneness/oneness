@@ -30,7 +30,7 @@ third party recruiters. However, if your company values fast feedback cycle, dev
 	-   Building, Mentoring and Leading Engineering teams at Startups to
 		design, develop and deliver great products.
 
--   **2018/11 - 2024/08:** Sr. Staff Software Engineer [TapClicks Inc (via AdStage Inc acquisition)](https://tapclicks.com)
+-   **2018/11 - 2024/08:** Director of Software Engineering [TapClicks Inc (via AdStage Inc acquisition)](https://tapclicks.com)
   	- Led the design and implementation Dashboard Reporting and Business Intelligence Web Application including tooling, architecture and engineering best practices.
 	- Worked with stakeholders across various engineering teams as an **Individual Contributor(IC)** to help fix and establish best way to move forward in addressing major customer facing issues.
 	- Mentored engineering team members to write high quality code with readability and ease of change in mind.
