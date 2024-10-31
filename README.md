@@ -31,6 +31,7 @@ third party recruiters. However, if your company values fast feedback cycle, dev
 		design, develop and deliver great products.
 
 -   **2018/11 - 2024/08:** Director of Software Engineering [TapClicks Inc (via AdStage Inc acquisition)](https://tapclicks.com)
+   	- Led the development and implementation of cloud-based computational and data pipelines, contributing to the creation of both back-end and front-end reporting applications.
   	- Provided clear direction for company objectives and product roadmaps, empowering direct reports to effectively allocate resources, strategize, and deliver essential features to our users.
 	- Worked with stakeholders across various engineering teams as an **Individual Contributor(IC)** to help fix and establish best way to move forward in addressing major customer facing issues.
 	- Mentored engineering team members to write high quality code with readability and ease of change in mind.
