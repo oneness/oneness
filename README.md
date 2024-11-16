@@ -33,7 +33,7 @@ third party recruiters. However, if your company values fast feedback cycle, dev
 -   **2018/11 - 2024/08:** Director of Software Engineering [TapClicks Inc (via AdStage Inc acquisition)](https://tapclicks.com)
    	- Led engineering teams during design, development, and delivery of a cloud-based SaaS application
 for dashboards and reporting, including its architecture, tooling, and deployment infrastructure.
-	- Worked with stakeholders across various engineering teams as an Individual Contributor(IC)
+	- Worked with stakeholders across various engineering teams as an **Individual Contributor(IC)**
 to help fix and establish best way to move forward in addressing major customer facing issues.
 	- Mentored engineering team members to write high quality code with readability and ease of
 change in mind.
@@ -49,10 +49,8 @@ PostgreSQL, AWS and GCP.
 	-   Tech Stack: Clojure/ClojureScript, PostgreSQL, Kafka, and all things AWS.
 
 -   **2012/08 - 2017/02:** Runa Inc (Acquired by Staples Inc as Staples Labs)
-	-   Started as a Clojure Engineer. Later promoted to Engineering Lead,
-		Engineering Manager and Director of Engineering.
-		Responsible for SLA critical web services such as recommendation system, shipping
-		prediction engine, etc.
+	-   Started as a Clojure Engineer. Later promoted to Engineering Lead and Manager responsible for
+SLA critical web services such as recommendation system, shipping prediction engine, etc.
 	-   Tech Stack: Clojure (with some Java where performance is
 		critical), PostgreSQL/Redis, RabbitMQ (replaced by Kafka), Protobuf, and all things AWS.
 
