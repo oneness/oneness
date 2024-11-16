@@ -43,8 +43,8 @@ positive and collaborative work culture.
 PostgreSQL, AWS and GCP.
 
 -   **2017/02 - 2018/09:** Omnyway Inc
-	-   Senior Full Stack Clojure Engineer as an early member of core
-		Engineering Team responsible for Core e-commerce platform and API
+	-   Lead Full Stack Clojure Engineer as an early member of core
+		Engineering Team responsible for Core e-commerce POS platform and API
 		development.
 	-   Tech Stack: Clojure/ClojureScript, PostgreSQL, Kafka, and all things AWS.
 
@@ -55,7 +55,7 @@ SLA critical web services such as recommendation system, shipping prediction eng
 		critical), PostgreSQL/Redis, RabbitMQ (replaced by Kafka), Protobuf, and all things AWS.
 
 -   **2011/08 - 2012/08:** The Climate Corporation
-	-   Java/Clojure Engineer as a member of Risk Management Team.
+	-   Senior Java/Clojure Engineer as a member of Risk Management Team.
 	-   Tech Stack: Java (with Clojure sneaked in as jars), Thrift, and Spring/Hibernate.
 
 -   **2005/10 - 2011/08:** Kyocera Document Solution USA
