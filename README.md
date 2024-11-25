@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I occasionally blog about programming [**here.**](https://www.birkey.co/archive.html)
 
-I enjoy building information systems that just work, which can only
-be achieved by keeping IT as simple as IT can be. If you are into
-Clojure, Common Lisp, Guile, Erlang/Elixir, Haskell, F#, OCaml, Ada, Prolog, Forth and APL or any other programming languages that jolts your
-brain to think, drop me a line via acm ktuman o r g (If you are human, you know what the email address should be).
-
 **Note**: I am **NOT** currently available for hire and do **NOT** respond to
 third party recruiters. However, if your company values fast feedback cycle, developer productivity via great tooling and functional approach to problem solving, I'd be interested in spending sometime together to solve tough problems. 
 
