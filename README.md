@@ -34,28 +34,20 @@ to help fix and establish best way to move forward in addressing major customer 
 change in mind.
 	- Recruited, retained, and fostered the growth of exceptional engineering teams by cultivating a
 positive and collaborative work culture.
-	- Tech Stack: Elixir, Clojure, ClojureScript, Fulcro, React, Phoenix LiveView, Cassandra, Datomic,
-PostgreSQL, AWS and GCP.
 
 -   **2017/02 - 2018/09:** Omnyway Inc
-	-   Lead Full Stack Clojure Engineer as an early member of core
-		Engineering Team responsible for Core e-commerce POS platform and API
-		development.
-	-   Tech Stack: Clojure/ClojureScript, PostgreSQL, Kafka, and all things AWS.
+	-   Lead Full Stack Engineer as an early member of core Engineering Team responsible for Core e-commerce POS platform and API development.
 
 -   **2012/08 - 2017/02:** Runa Inc (Acquired by Staples Inc as Staples Labs)
-	-   Started as a Clojure Engineer. Later promoted to Engineering Lead and Manager responsible for
+	-   Started as a Senior Engineer. Later promoted to Engineering Lead and Manager responsible for
 SLA critical web services such as recommendation system, shipping prediction engine, etc.
-	-   Tech Stack: Clojure (with some Java where performance is
-		critical), PostgreSQL/Redis, RabbitMQ (replaced by Kafka), Protobuf, and all things AWS.
 
 -   **2011/08 - 2012/08:** The Climate Corporation
-	-   Senior Java/Clojure Engineer as a member of Risk Management Team.
-	-   Tech Stack: Java (with Clojure sneaked in as jars), Thrift, and Spring/Hibernate.
+	-   Senior Java Engineer as a member of Risk Management Team.
+	-   Tech Stack: Java, Thrift, Spring, Hibernate and all things AWS.
 
 -   **2005/10 - 2011/08:** Kyocera Document Solution USA
-	-   Started as a Software Engineer, then promoted to Team
-		Lead. Responsible for developing Web Application that manages IoT printer fleets.
+	-   Started as a Software Engineer, then promoted to team lead responsible for developing Web Application that manages IoT printer fleets.
 	-   Tech Stack: Java, Spring/Hibernate, PostgreSQL, and OSGi.
 
 
