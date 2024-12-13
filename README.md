@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I occasionally blog about programming [**here.**](https://www.birkey.co/archive.html)
 
-**Note**: I am **NOT** currently available for hire and do **NOT** respond to
-third party recruiters. However, if your company values fast feedback cycle, developer productivity via great tooling and functional approach to problem solving, I'd be interested in spending sometime together to solve tough problems. 
+**Note**: I am not currently available for hire and do not engage with third-party recruiters. However, if your company prioritizes rapid feedback cycles, developer productivity through effective tooling, APIs, and robust platforms, as well as a functional approach to problem-solving, I’d be open to exploring how we can collaborate on tackling complex challenges.
