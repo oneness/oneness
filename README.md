@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I occasionally blog about programming [**here.**](https://www.birkey.co/archive.html)
 
-**Note**: I am not currently available for hire and do not engage with third-party recruiters. However, if your company prioritizes rapid feedback cycles, developer productivity through effective tooling, APIs, and robust infrastructure, as well as a functional approach to problem-solving, I’d be open to exploring how we can collaborate on tackling complex challenges.
+**Note**:  I like to work on tough problems that need hard thinking. The problem may be complex; the solution need not be. Most complexity is accidental, and removing it is the work I enjoy the most. If you want to work with me, describe the problem in your own words and email me at ktuman@acm.org.
